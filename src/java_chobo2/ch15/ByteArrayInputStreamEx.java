@@ -4,7 +4,7 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.util.Arrays;
 
-public class ByteArrayInputStreamEx { // 2/24
+public class ByteArrayInputStreamEx { 
 	
 	public static void main(String[] args) {
 		byte[] inSrc = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
